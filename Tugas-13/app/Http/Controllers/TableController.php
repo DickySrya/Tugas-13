@@ -11,9 +11,9 @@ class TableController extends Controller
         return view('table');
     }
     
-    public function data()
+    public function datatable()
     {
-        return view('datatable');
+        return view('data-tables');
     }
     
 }

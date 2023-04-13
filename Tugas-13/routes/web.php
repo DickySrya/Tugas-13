@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'TableController@table');
-Route::get('/datatable', 'TableController@data');
+Route::get('/data-tables', 'TableController@datatable');
 Route::get('/table', 'TableController@table');
 
 

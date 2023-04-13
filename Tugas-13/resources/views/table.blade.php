@@ -114,13 +114,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../tables/simple.html" class="nav-link active">
+                <a href="/table" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Tables</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="/datatable" class="nav-link">
+                <a href="/data-tables" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>DataTables</p>
                 </a>

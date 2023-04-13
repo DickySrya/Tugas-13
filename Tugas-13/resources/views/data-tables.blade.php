@@ -121,7 +121,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../tables/data.html" class="nav-link active">
+                <a href="/data-tables" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
                   <p>DataTables</p>
                 </a>
