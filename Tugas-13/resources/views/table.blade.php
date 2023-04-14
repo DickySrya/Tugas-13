@@ -262,6 +262,6 @@
 <!-- AdminLTE App -->
 <script src="{{asset('AdminLTE-3.2.0/')}}/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="{{asset('AdminLTE-3.2.0/')}}/dist/js/demo.js"></script>
+<script src="../../dist/js/demo.js"></script>
 </body>
 </html>
